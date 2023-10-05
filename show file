@@ -1,0 +1,20 @@
+javascript function makeMattGrossoShow()function makeMattGrossoShow() {
+  // Create a new Matt Grosso show object
+  var show = {
+    title: "Matt Grosso Show",
+    description: "This is a show by Matt Grosso.",
+    start_time: "10:00 AM",
+    end_time: "11:00 AM",
+    organizer: "Matt Grosso",
+    organizer_url: "https://www.facebook.com/mattgrosso",
+    organizer_image: "https://www.facebook.com/photos/t/10150328547624551/",
+    organizer_description: "Matt Grosso is a comedian and actor.",
+    organizer_image_url: "https://www.facebook.com/photos/t/10150328547624551/",
+    ticket_price: "$10",
+    ticket_url: "https://www.eventbrite.com/e/matt-grosso-show-tickets-135433406527",
+    ticket_quantity: "100",
+    ticket_status: "Available",
+  };
+  // Add the show to the list of shows
+  shows.push(show);
+}
