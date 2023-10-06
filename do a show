@@ -1,0 +1,28 @@
+javascript  function doashow,
+{(views) (directory) (profiles) (videos) (photos) (feeds) (broadcast) }                                                             
+{
+  //shows, 
+  //actors,
+  //characters,
+  //lunch,
+  //meals,
+  //travels,
+  //randonautica,
+  //stalkers,
+  //crime,
+  //PushNotification, 
+  //managers, 
+  //director, 
+  //writer, 
+  //theater, 
+  //producer, 
+  //art, 
+  //photos, 
+  //video,
+  //feeds,
+  //lives, 
+  //rooms
+  //messages,
+  //broadcast,
+}                 
+{list:input{1}, output{2},}                               
